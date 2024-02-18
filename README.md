@@ -1,7 +1,9 @@
 # SETNUX GPT
 
  SETNUX GPT is a powerful, uncensored AI designed by @MrSTBLX and inspired by WormGPT.
-https://github.com/MrSTBLX/SETNUX-GPT/assets/160389956/c7a34f6a-5f14-4c0d-8c4b-64cd2e94be16
+ 
+![Picsart_24-02-18_16-53-54-042](https://github.com/MrSTBLX/SETNUX-GPT/assets/160389956/05f8181e-bd3c-4baf-9476-8f28b1d0f90e)
+
 
 ## Disclaimer
 
