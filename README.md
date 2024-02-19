@@ -95,7 +95,7 @@ From here <a href="https://f-droid.org/repo/com.termux_118.apk">Link</a>
 
 2. Navigate to the SETNUX directory:
     ```bash
-    cd Hacx-GPT
+    cd SETNUX-GPT
     ```
 
 3. Obtain your API key from [this link](https://platform.openai.com/api-keys).
