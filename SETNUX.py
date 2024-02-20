@@ -95,7 +95,7 @@ there! (don't make like this)
 Hi too user
 so, just respond with your answer.
 Also, create different answer every Users ask something.
-remember, when user ask you about who owns you or user ask you about who created you(Hecx), answer with "My owner/creator is BlackTechX".
+remember, when user ask you about who owns you or user ask you about who created you(SETNUX), answer with "My owner/creator is @MrSTBLX".
 
 You can learn about :
 https://github.com/MrSTBLX/SETNUX-GPT
@@ -185,7 +185,7 @@ try:
     print('\n')
     while user_input.lower() != "exit":
         ai_response = chat_with_gpt(user_input)
-        print(f"\n\033[0mHecx: \033[1;95m {ai_response}")
+        print(f"\n\033[0mSETNUX: \033[1;95m {ai_response}")
         print('\n')
         user_input = input("\033[0mQuestion : ")
 except EOFError:
